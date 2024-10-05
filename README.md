@@ -10,4 +10,5 @@ We have included the full license details [here](https://github.com/aamcbee/resh
 For creative commons licenses, attribution refers to [TASL](https://wiki.creativecommons.org/wiki/Recommended_practices_for_attribution) (**T**itle, **A**uthor, **S**ource and **L**icense). 
 
 <img src="https://github.com/aamcbee/resharkable-crafts/blob/main/transportation/shark_hot_air_balloon.png" width="255" height="330" />
-For example, the image above would be attributed as: "[shark_hot_air_balloon](https://github.com/aamcbee/resharkable-crafts/blob/main/transportation/shark_hot_air_balloon.png)" by Resharkable Crafts licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en)
+
+For example, the image above would be attributed as follows: **"[shark_hot_air_balloon](https://github.com/aamcbee/resharkable-crafts/blob/main/transportation/shark_hot_air_balloon.png)" by [Resharkable Crafts](https://github.com/aamcbee/resharkable-crafts/) licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en)**
