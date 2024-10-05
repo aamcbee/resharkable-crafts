@@ -1,4 +1,4 @@
-# resharkable-crafts
+![](https://github.com/aamcbee/resharkable-crafts/blob/main/resharkable_logo.png)
 A source for free children's crafts, coloring pages, and resources
 
 ## Licensing
