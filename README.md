@@ -7,7 +7,7 @@ This means that all of these materials are free to use for **only** non-commerci
 We have included the full license details [here](https://github.com/aamcbee/resharkable-crafts/blob/main/LICENSE.txt).
 
 ### Attribution
-For creative commons licensed work, we prefer attribution via the [TASL](https://wiki.creativecommons.org/wiki/Recommended_practices_for_attribution) method (**T**itle, **A**uthor, **S**ource and **L**icense) 
+For our creative commons attribution licensed work, we prefer attribution via the [TASL](https://wiki.creativecommons.org/wiki/Recommended_practices_for_attribution) method (**T**itle, **A**uthor, **S**ource and **L**icense) 
 
 For example, the image below would be attributed as follows: **"[shark_hot_air_balloon](https://github.com/aamcbee/resharkable-crafts/blob/main/transportation/shark_hot_air_balloon.png)" by [Resharkable Crafts](https://github.com/aamcbee/resharkable-crafts/) licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en)**
 
