@@ -1,5 +1,5 @@
-# resharkable-crafts
-A source for free children's crafts, coloring pages, and resources
+![](https://github.com/aamcbee/resharkable-crafts/blob/main/resharkable_logo.png)
+A source for free children's crafts, coloring pages, and other resources.
 
 ## Licensing
 All materials in this repository are licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
